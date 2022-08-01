@@ -1,3 +1,3 @@
 # Demo
 
-Create new document
+Create new document!
